@@ -1,0 +1,21 @@
+Artificial intelligence is technology that enables computers and machines to simulate human abilities such as learning, understanding, problem-solving, and decision-making. In simple terms, AI is any software system that can sense, think with varying degrees of autonomy and independence.
+
+For example, a simple four-function calculator performs basic arithmetic—addition, subtraction, multiplication, and division—but it does not adapt independently or make decisions about what to calculate. The newly released 7-Cal incorporates AI Models (GPT-5.2, Gemini 3, Claude, and custom API models), which goes beyond solving an equation to explaining it.
+
+Modern AI also shows up in tools like Siri or Alexa, but also in chatbots like ChatGPT, AI photo filters on TikTok and Snapchat, and email integrations that can draft full replies for you. In more advanced cases, AI helps robots perceive their surroundings, plan routes, and navigate challenging environments autonomously.
+
+Modern AI systems often have three common ingredients:
+
+Data: The historical information the system learns from (images, text, sensor data, logs).
+Models: The algorithms that learn patterns and make predictions or decisions.
+Feedback: Signals about success or failure that help the system improve over time.
+At Fresh, these artificial intelligence core concepts show up in projects like:
+
+Smart digital experiences that personalize content or recommendations in real time.
+Robotics and autonomous systems that use AI to perceive, plan, and act in physical environments.
+AI-enhanced business tools that support strategy, product innovation, and operational decision making.
+Our proprietary autonomous work management platform—Harmony—is a concrete example of how components of artificial intelligence come together in practice.
+
+Harmony continuously collects telemetry and behavioral data from robots and the environments they work in, then aggregates that data in the cloud so it can be monitored and analyzed over time. On top of that data, the platform uses AI-based control and other machine learning models to help robots navigate, coordinate, and adapt more autonomously instead of relying on fixed scripts.
+
+As teams deploy robots and run missions, they see how well routes, behaviors, and task assignments perform, then use that feedback to refine configurations, improve the models, and scale to more robots and new environments with less friction.
